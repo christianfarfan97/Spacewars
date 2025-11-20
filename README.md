@@ -1,6 +1,11 @@
-🚀 Space Wars
+                                    🚀 Space Wars
+
+
 🎮 Descripción
+
 Space Wars es un shooter espacial 2D hecho con Python y Pygame. Controla tu nave para destruir enemigos, esquivar y destruir asteroides, y sobrevive el mayor tiempo posible. El juego incluye sistema de colisiones, manejo de sonidos, sprites animados, menú inicial, barra de vida, y contador de puntuación.
+
+
 
 🕹️ Características
 
