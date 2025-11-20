@@ -3,12 +3,10 @@ import sys
 from player import Jugador, Score , Vida , Bala
 from enemy import Asteroide, Enemigo , Explosion
 
-# pygame setup
+
 pygame.init()
 pygame.mixer.init()
-
 pantalla = pygame.display.set_mode((600,650))
-
 clock = pygame.time.Clock()
 corriendo = True
 
